@@ -4,7 +4,7 @@ body {
 }
 .banner {
   background-image: url('../assets/banner.jpg');
-  min-height: 300px;
+  min-height: 200px;
   width: 100%;
   background-size: cover;
   background-position: center;
