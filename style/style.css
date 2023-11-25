@@ -19,8 +19,8 @@ body {
   width: min(100%, 200px);
   height: min(100%, 200px);
   border-radius: 50%;
-  border: 10px solid rgba(100, 245, 255, 1);
-  box-shadow: 0 0 1rem rgba(100, 245, 255, .4);
+  border: 10px solid rgba(100, 190, 255, 1);
+  box-shadow: 0 0 1rem rgba(100, 190, 255, .4);
 }
 .img {
   width: min(100%, 200px);
@@ -35,27 +35,27 @@ body {
   font-weight: 600;
 }
 .status {
-  color: rgba(150, 150, 150, 1);
+  color: rgba(100, 190, 255, 1);
   font-size: 1rem;
   font-weight: 600;
 }
 .sosial {
-  color: rgba(100, 245, 255, 1);
+  color: rgba(100, 190, 255, 1);
   font-size: 1rem;
   font-weight: 600;
 }
 .link {
-  color: rgba(100, 245, 255, 1);
+  color: rgba(100, 190, 255, 1);
   font-size: 1rem;
   text-decoration: none;
   font-weight: 500;
-  background-color: rgba(100, 245, 255, .4);
+  background-color: rgba(100, 190, 255, .4);
   padding: .1rem .5rem;
   border-radius: 1rem;
   cursor: pointer;
 }
 .intro {
-  color: rgba(100, 100, 100, 1);
+  color: rgba(150, 150, 150, 1);
   font-size: 1rem;
   width: min(100%, 40ch);
   text-align: center;
@@ -77,7 +77,7 @@ body {
 }
 .fa-brands, .fa-solid {
   font-size: 2rem;
-  color: rgba(100, 245, 255, 1);
+  color: rgba(100, 190, 255, 1);
 }
 .usz {
   transform: translateY(.4rem);
